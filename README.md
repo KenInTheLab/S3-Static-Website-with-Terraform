@@ -1,8 +1,13 @@
+## Watch me build Here
+
+https://www.loom.com/share/f523fa8e8ba84a7792ee8d931d29beac
+
 # Project 01 — S3 Static Website with Terraform
 
 ![AWS](https://img.shields.io/badge/AWS-S3-orange?logo=amazonaws)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?logo=terraform)
 ![Status](https://img.shields.io/badge/Status-Live%20Demo-brightgreen)
+
 
 ## Overview
 
