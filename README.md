@@ -1,5 +1,4 @@
-## Watch me build Here
-
+# Watch me build It Here
 https://www.loom.com/share/f523fa8e8ba84a7792ee8d931d29beac
 
 # Project 01 — S3 Static Website with Terraform
